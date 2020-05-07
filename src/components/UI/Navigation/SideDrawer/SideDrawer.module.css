@@ -7,7 +7,7 @@
   box-sizing: border-box;
   width: 280px;
   max-width: 70%;
-  transition: transform 3s ease-out;
+  transition: transform 1s ease-out;
   background-color: white;
 }
 
